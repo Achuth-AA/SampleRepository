@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "PyCon US 2025",
+  "description": "PyCon US is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python.",
+  "startDate": "2025-05-14T09:00:00-04:00",
+  "endDate": "2025-05-22T17:00:00-04:00",
+  "location": {
+    "@type": "Place",
+    "name": "David L. Lawrence Convention Center",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1000 Fort Duquesne Boulevard",
+      "addressLocality": "Pittsburgh",
+      "addressRegion": "PA",
+      "postalCode": "15222",
+      "addressCountry": "US"
+    }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "Python Software Foundation",
+    "url": "https://www.python.org/psf/"
+  },
+  "url": "https://us.pycon.org/2025/",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode"
+}

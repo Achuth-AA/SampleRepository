@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<rdf:Description rdf:about="urn:isbn:978-1-119-32828-3">
+    <dc:title>Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</dc:title>
+    <dc:creator>McKinney, Wes</dc:creator>
+    <dc:subject>Python (Computer program language)</dc:subject>
+    <dc:subject>Data mining</dc:subject>
+    <dc:subject>Quantitative research</dc:subject>
+    <dc:description>This book provides practical guidance on data analysis using Python programming language, focusing on the pandas library for data manipulation and analysis. It covers data cleaning, transformation, and visualization techniques essential for data science work.</dc:description>
+    <dcterms:abstract>A comprehensive guide to using Python for data analysis, covering pandas, NumPy, IPython, and Jupyter for manipulating, processing, cleaning, and crunching data in Python.</dcterms:abstract>
+    <dcterms:audience>Data scientists, analysts, and programmers interested in using Python for data analysis</dcterms:audience>
+    <dc:publisher>O'Reilly Media</dc:publisher>
+    <dc:contributor>O'Reilly Media, Inc.</dc:contributor>
+    <dc:date>2017-09-25</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>application/pdf</dc:format>
+    <dc:identifier>978-1-119-32828-3</dc:identifier>
+    <dc:source>https://www.oreilly.com/library/view/python-for-data/9781491957653/</dc:source>
+    <dc:relation>Second Edition</dc:relation>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright 2017 Wes McKinney. All rights reserved.</dc:rights>
+</rdf:Description>
+</rdf:RDF>
